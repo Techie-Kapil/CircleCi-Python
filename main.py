@@ -8,7 +8,7 @@ def say_hello(name):
 
 
 if __name__ == '__main__':
-    name = 'ItsMeKapil'
+    name = 'Kapil'
     say_hello(name)
     up = to_upper(name)
     print(up)
